@@ -5,4 +5,4 @@ yfinance
 plotly
 ta
 deep-translator
-dateutil
+python-dateutil
