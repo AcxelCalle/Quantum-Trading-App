@@ -60,4 +60,4 @@ st.caption("""
 
 st.markdown("<br>", unsafe_allow_html=True)
 if st.button("Comenzar Análisis ➡️", use_container_width=True, type="primary"):
-    st.switch_page("pages/Análisis_de_Acciones.py")
+    st.switch_page("pages/Análisis_de_acciones.py")
